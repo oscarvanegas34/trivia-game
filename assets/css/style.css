@@ -1,0 +1,15 @@
+
+
+body{
+max-width:1000px;
+margin: auto;
+font-family: 'Frijole', cursive;
+font-size: 20px;
+text-align: center;
+background-color: bisque;
+}
+
+.container{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
